@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing effective software applications
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything which helps the community
-- 📫 How to reach me myrasenshuriken@gmail.com
+- 📫 How to reach me mimalhar@gmail.com
 
 <!---
 Malhar-Deshpande/Malhar-Deshpande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
