@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Malhar-Deshpande
 - 👀 I’m interested in developing effective software applications
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything which helps the community
+- 💞️ I’m looking to collaborate on developing applications which helps the community
 - 📫 How to reach me mimalhar@gmail.com
 
 <!---
